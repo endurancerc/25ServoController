@@ -19,7 +19,7 @@ Requires Device Circuit.
 
 ---------------------------------------------------------------------------------------------------------------
 
-![alt text](https://github.com/endurancerc/PIC18F4550-PCTx/blob/main/dx6i_PCTx.jpg?raw=true)
+![alt text](https://github.com/endurancerc/PIC18F4550-PCTx/blob/main/25_Servo_Controller_SMD_top.jpg?raw=true)
 
 [25 Servo Controller Bill of Materials](https://github.com/endurancerc/PIC18F4550-25ServoController/blob/main/25_Servo_Controller_BOM.csv)
 
