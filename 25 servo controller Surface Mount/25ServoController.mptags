@@ -1,0 +1,506 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.5.4	//
+!_TAG_REVISION_NAME	MCHPTags	//
+!_TAG_REVISION_VERSION	6.0.1	//
+ADDRESS_STATE::5	C:\CUI\25 servo controller\usbmmap.h	62;"	d	line:62
+ADR	C:\CUI\25 servo controller\usbmmap.h	123;"	m	line:123	struct:_BDT::<anonymous>
+ADRH	C:\CUI\25 servo controller\usbmmap.h	117;"	m	line:117	struct:_BDT::<anonymous>
+ADRL	C:\CUI\25 servo controller\usbmmap.h	116;"	m	line:116	struct:_BDT::<anonymous>
+ADR_PENDING_STATE::4	C:\CUI\25 servo controller\usbmmap.h	61;"	d	line:61
+ATTACHED_STATE::1	C:\CUI\25 servo controller\usbmmap.h	58;"	d	line:58
+BC8	C:\CUI\25 servo controller\usbmmap.h	84;"	m	line:84	struct:_BD_STAT::<anonymous>
+BC8	C:\CUI\25 servo controller\usbmmap.h	94;"	m	line:94	struct:_BD_STAT::<anonymous>
+BC9	C:\CUI\25 servo controller\usbmmap.h	85;"	m	line:85	struct:_BD_STAT::<anonymous>
+BC9	C:\CUI\25 servo controller\usbmmap.h	95;"	m	line:95	struct:_BD_STAT::<anonymous>
+BDT	C:\CUI\25 servo controller\usbmmap.h	125;"	t	line:125
+BD_STAT	C:\CUI\25 servo controller\usbmmap.h	108;"	t	line:108
+BOOL	C:\CUI\25 servo controller\typedefs.h	150;"	t	line:150
+BOOT_INTF_SUBCLASS::0x01	C:\CUI\25 servo controller\hid.h	66;"	d	line:66
+BOOT_PROTOCOL::0x00	C:\CUI\25 servo controller\hid.h	58;"	d	line:58
+BSTALL	C:\CUI\25 servo controller\usbmmap.h	86;"	m	line:86	struct:_BD_STAT::<anonymous>
+BYTE	C:\CUI\25 servo controller\typedefs.h	58;"	t	line:58
+BlinkUSBStatus	C:\CUI\25 servo controller\user_generic_hid.c	1453;"	f	line:1453	signature:(void)
+BlinkUSBStatus	C:\CUI\25 servo controller\user_generic_hid.c	26;"	p	line:26	file:	signature:(void)
+Byte0	C:\CUI\25 servo controller\typedefs.h	103;"	m	line:103	struct:_DWORD::<anonymous>
+Byte0	C:\CUI\25 servo controller\typedefs.h	70;"	m	line:70	struct:_WORD::<anonymous>
+Byte1	C:\CUI\25 servo controller\typedefs.h	104;"	m	line:104	struct:_DWORD::<anonymous>
+Byte1	C:\CUI\25 servo controller\typedefs.h	71;"	m	line:71	struct:_WORD::<anonymous>
+Byte2	C:\CUI\25 servo controller\typedefs.h	105;"	m	line:105	struct:_DWORD::<anonymous>
+Byte3	C:\CUI\25 servo controller\typedefs.h	106;"	m	line:106	struct:_DWORD::<anonymous>
+CARD_DETECT::PORTBbits.RB4	C:\CUI\25 servo controller\io_cfg.h	116;"	d	line:116
+CFG01::romstruct\	C:\CUI\25 servo controller\usbdsc.h	53;"	d	line:53
+CLR_FEATURE::1	C:\CUI\25 servo controller\usb9.h	49;"	d	line:49
+CONFIGURED_STATE::6	C:\CUI\25 servo controller\usbmmap.h	63;"	d	line:63
+ClassReqHandler	C:\CUI\25 servo controller\usbdsc.c	312;"	v	line:312
+ClearArray	C:\CUI\25 servo controller\usbdrv.c	588;"	f	line:588	signature:(byte* startAdr,byte count)
+Cnt	C:\CUI\25 servo controller\usbmmap.h	115;"	m	line:115	struct:_BDT::<anonymous>
+CtrlTrfData	C:\CUI\25 servo controller\usbmmap.c	271;"	v	line:271
+DEFAULT_STATE::3	C:\CUI\25 servo controller\usbmmap.h	60;"	d	line:60
+DETACHED_STATE::0	C:\CUI\25 servo controller\usbmmap.h	57;"	d	line:57
+DEVICE_REMOTE_WAKEUP::0x01	C:\CUI\25 servo controller\usb9.h	61;"	d	line:61
+DSC_HID::0x21	C:\CUI\25 servo controller\hid.h	53;"	d	line:53
+DSC_PHY::0x23	C:\CUI\25 servo controller\hid.h	55;"	d	line:55
+DSC_RPT::0x22	C:\CUI\25 servo controller\hid.h	54;"	d	line:54
+DTS	C:\CUI\25 servo controller\usbmmap.h	90;"	m	line:90	struct:_BD_STAT::<anonymous>
+DTSEN	C:\CUI\25 servo controller\usbmmap.h	87;"	m	line:87	struct:_BD_STAT::<anonymous>
+DWORD	C:\CUI\25 servo controller\typedefs.h	117;"	t	line:117
+Delay100TCYx	C:\MCC18\h\delays.h	39;"	p	line:39	signature:(PARAM_SCLASS unsigned char)
+Delay10KTCYx	C:\MCC18\h\delays.h	53;"	p	line:53	signature:(PARAM_SCLASS unsigned char)
+Delay10TCY::Delay10TCYx(1)	C:\MCC18\h\delays.h	24;"	d	line:24
+Delay10TCYx	C:\MCC18\h\delays.h	32;"	p	line:32	signature:(PARAM_SCLASS unsigned char)
+Delay1KTCYx	C:\MCC18\h\delays.h	46;"	p	line:46	signature:(PARAM_SCLASS unsigned char)
+Delay1TCY::Nop	C:\MCC18\h\delays.h	19;"	d	line:19
+ENDPOINT_HALT::0x00	C:\CUI\25 servo controller\usb9.h	62;"	d	line:62
+EP00_IN::((0x00<<3)|(IN<<2))	C:\CUI\25 servo controller\usbdrv.h	82;"	d	line:82
+EP00_OUT::((0x00<<3)|(OUT<<2))	C:\CUI\25 servo controller\usbdrv.h	81;"	d	line:81
+EP01_IN::((0x01<<3)|(IN<<2))	C:\CUI\25 servo controller\usbdrv.h	84;"	d	line:84
+EP01_OUT::((0x01<<3)|(OUT<<2))	C:\CUI\25 servo controller\usbdrv.h	83;"	d	line:83
+EP02_IN::((0x02<<3)|(IN<<2))	C:\CUI\25 servo controller\usbdrv.h	86;"	d	line:86
+EP02_OUT::((0x02<<3)|(OUT<<2))	C:\CUI\25 servo controller\usbdrv.h	85;"	d	line:85
+EP03_IN::((0x03<<3)|(IN<<2))	C:\CUI\25 servo controller\usbdrv.h	88;"	d	line:88
+EP03_OUT::((0x03<<3)|(OUT<<2))	C:\CUI\25 servo controller\usbdrv.h	87;"	d	line:87
+EP04_IN::((0x04<<3)|(IN<<2))	C:\CUI\25 servo controller\usbdrv.h	90;"	d	line:90
+EP04_OUT::((0x04<<3)|(OUT<<2))	C:\CUI\25 servo controller\usbdrv.h	89;"	d	line:89
+EP05_IN::((0x05<<3)|(IN<<2))	C:\CUI\25 servo controller\usbdrv.h	92;"	d	line:92
+EP05_OUT::((0x05<<3)|(OUT<<2))	C:\CUI\25 servo controller\usbdrv.h	91;"	d	line:91
+EP06_IN::((0x06<<3)|(IN<<2))	C:\CUI\25 servo controller\usbdrv.h	94;"	d	line:94
+EP06_OUT::((0x06<<3)|(OUT<<2))	C:\CUI\25 servo controller\usbdrv.h	93;"	d	line:93
+EP07_IN::((0x07<<3)|(IN<<2))	C:\CUI\25 servo controller\usbdrv.h	96;"	d	line:96
+EP07_OUT::((0x07<<3)|(OUT<<2))	C:\CUI\25 servo controller\usbdrv.h	95;"	d	line:95
+EP08_IN::((0x08<<3)|(IN<<2))	C:\CUI\25 servo controller\usbdrv.h	98;"	d	line:98
+EP08_OUT::((0x08<<3)|(OUT<<2))	C:\CUI\25 servo controller\usbdrv.h	97;"	d	line:97
+EP09_IN::((0x09<<3)|(IN<<2))	C:\CUI\25 servo controller\usbdrv.h	100;"	d	line:100
+EP09_OUT::((0x09<<3)|(OUT<<2))	C:\CUI\25 servo controller\usbdrv.h	99;"	d	line:99
+EP10_IN::((0x0A<<3)|(IN<<2))	C:\CUI\25 servo controller\usbdrv.h	102;"	d	line:102
+EP10_OUT::((0x0A<<3)|(OUT<<2))	C:\CUI\25 servo controller\usbdrv.h	101;"	d	line:101
+EP11_IN::((0x0B<<3)|(IN<<2))	C:\CUI\25 servo controller\usbdrv.h	104;"	d	line:104
+EP11_OUT::((0x0B<<3)|(OUT<<2))	C:\CUI\25 servo controller\usbdrv.h	103;"	d	line:103
+EP12_IN::((0x0C<<3)|(IN<<2))	C:\CUI\25 servo controller\usbdrv.h	106;"	d	line:106
+EP12_OUT::((0x0C<<3)|(OUT<<2))	C:\CUI\25 servo controller\usbdrv.h	105;"	d	line:105
+EP13_IN::((0x0D<<3)|(IN<<2))	C:\CUI\25 servo controller\usbdrv.h	108;"	d	line:108
+EP13_OUT::((0x0D<<3)|(OUT<<2))	C:\CUI\25 servo controller\usbdrv.h	107;"	d	line:107
+EP14_IN::((0x0E<<3)|(IN<<2))	C:\CUI\25 servo controller\usbdrv.h	110;"	d	line:110
+EP14_OUT::((0x0E<<3)|(OUT<<2))	C:\CUI\25 servo controller\usbdrv.h	109;"	d	line:109
+EP15_IN::((0x0F<<3)|(IN<<2))	C:\CUI\25 servo controller\usbdrv.h	112;"	d	line:112
+EP15_OUT::((0x0F<<3)|(OUT<<2))	C:\CUI\25 servo controller\usbdrv.h	111;"	d	line:111
+EP_CTRL::0x06	C:\CUI\25 servo controller\usbdrv.h	59;"	d	line:59
+EP_IN::0x0A	C:\CUI\25 servo controller\usbdrv.h	61;"	d	line:61
+EP_OUT::0x0C	C:\CUI\25 servo controller\usbdrv.h	60;"	d	line:60
+EP_OUT_IN::0x0E	C:\CUI\25 servo controller\usbdrv.h	62;"	d	line:62
+FAIL::FALSE	C:\CUI\25 servo controller\typedefs.h	153;"	d	line:153
+FALSE	C:\CUI\25 servo controller\typedefs.h	150;"	e	line:150	enum:_BOOL
+GET_CFG::8	C:\CUI\25 servo controller\usb9.h	54;"	d	line:54
+GET_DSC::6	C:\CUI\25 servo controller\usb9.h	52;"	d	line:52
+GET_IDLE::0x02	C:\CUI\25 servo controller\hid.h	46;"	d	line:46
+GET_INTF::10	C:\CUI\25 servo controller\usb9.h	56;"	d	line:56
+GET_PROTOCOL::0x03	C:\CUI\25 servo controller\hid.h	47;"	d	line:47
+GET_REPORT::0x01	C:\CUI\25 servo controller\hid.h	45;"	d	line:45
+GET_STATUS::0	C:\CUI\25 servo controller\usb9.h	48;"	d	line:48
+GetFeatureReport0	C:\CUI\25 servo controller\user_generic_hid.c	1528;"	f	line:1528	signature:(void)
+GetFeatureReport0	C:\CUI\25 servo controller\user_generic_hid.h	46;"	p	line:46	signature:(void)
+GetInputReport0	C:\CUI\25 servo controller\user_generic_hid.c	1512;"	f	line:1512	signature:(void)
+GetInputReport0	C:\CUI\25 servo controller\user_generic_hid.h	45;"	p	line:45	signature:(void)
+HIDGetReportHandler	C:\CUI\25 servo controller\hid.c	183;"	f	line:183	signature:(void)
+HIDGetReportHandler	C:\CUI\25 servo controller\hid.c	53;"	p	line:53	file:	signature:(void)
+HIDInitEP	C:\CUI\25 servo controller\hid.c	370;"	f	line:370	signature:(void)
+HIDInitEP	C:\CUI\25 servo controller\hid.h	151;"	p	line:151	signature:(void)
+HIDRxReport	C:\CUI\25 servo controller\hid.c	481;"	f	line:481	signature:(char *buffer, byte len)
+HIDRxReport	C:\CUI\25 servo controller\hid.h	154;"	p	line:154	signature:(char *buffer, byte len)
+HIDSetReportHandler	C:\CUI\25 servo controller\hid.c	275;"	f	line:275	signature:(void)
+HIDSetReportHandler	C:\CUI\25 servo controller\hid.c	54;"	p	line:54	file:	signature:(void)
+HIDTxReport	C:\CUI\25 servo controller\hid.c	426;"	f	line:426	signature:(char *buffer, byte len)
+HIDTxReport	C:\CUI\25 servo controller\hid.h	153;"	p	line:153	signature:(char *buffer, byte len)
+HID_H	C:\CUI\25 servo controller\hid.h	37;"	d	line:37
+HID_INTF::0x03	C:\CUI\25 servo controller\hid.h	63;"	d	line:63
+HID_PROTOCOL_KEYBOAD::0x01	C:\CUI\25 servo controller\hid.h	70;"	d	line:70
+HID_PROTOCOL_MOUSE::0x02	C:\CUI\25 servo controller\hid.h	71;"	d	line:71
+HID_PROTOCOL_NONE::0x00	C:\CUI\25 servo controller\hid.h	69;"	d	line:69
+HSHK_EN::0x10	C:\CUI\25 servo controller\usbdrv.h	63;"	d	line:63
+HandleControlOutReport	C:\CUI\25 servo controller\usbctrltrf.c	57;"	p	line:57	file:	signature:(void)
+HandleControlOutReport	C:\CUI\25 servo controller\user_generic_hid.c	1396;"	f	line:1396
+HandleControlOutReport	C:\CUI\25 servo controller\user_generic_hid.c	28;"	p	line:28	file:	signature:(void)
+HandleControlOutReport	C:\CUI\25 servo controller\user_generic_hid.h	50;"	p	line:50	signature:(void)
+HighB	C:\CUI\25 servo controller\typedefs.h	76;"	m	line:76	struct:_WORD::<anonymous>
+IN::1	C:\CUI\25 servo controller\usbdrv.h	76;"	d	line:76
+INCDIS	C:\CUI\25 servo controller\usbmmap.h	88;"	m	line:88	struct:_BD_STAT::<anonymous>
+INPUT_PIN::1	C:\CUI\25 servo controller\io_cfg.h	44;"	d	line:44
+IO_CFG_H	C:\CUI\25 servo controller\io_cfg.h	38;"	d	line:38
+InitializeSystem	C:\CUI\25 servo controller\main.c	114;"	f	line:114	file:	signature:(void)
+InitializeSystem	C:\CUI\25 servo controller\main.c	54;"	p	line:54	file:	signature:(void)
+KEN	C:\CUI\25 servo controller\usbmmap.h	89;"	m	line:89	struct:_BD_STAT::<anonymous>
+LOWER_LSB::(a)((a).v[0])	C:\CUI\25 servo controller\typedefs.h	118;"	d	line:118
+LOWER_MSB::(a)((a).v[1])	C:\CUI\25 servo controller\typedefs.h	119;"	d	line:119
+LSB::(a)((a).v[0])	C:\CUI\25 servo controller\typedefs.h	83;"	d	line:83
+LowB	C:\CUI\25 servo controller\typedefs.h	75;"	m	line:75	struct:_WORD::<anonymous>
+MSB::(a)((a).v[1])	C:\CUI\25 servo controller\typedefs.h	84;"	d	line:84
+OK::TRUE	C:\CUI\25 servo controller\typedefs.h	152;"	d	line:152
+OUT::0	C:\CUI\25 servo controller\usbdrv.h	75;"	d	line:75
+OUTPUT_PIN::0	C:\CUI\25 servo controller\io_cfg.h	45;"	d	line:45
+PARAM_SCLASS::auto	C:\MCC18\h\delays.h	21;"	d	line:21
+PIC_EP_DIR_MASK::0b00000100	C:\CUI\25 servo controller\usbdrv.h	79;"	d	line:79
+PIC_EP_NUM_MASK::0b01111000	C:\CUI\25 servo controller\usbdrv.h	78;"	d	line:78
+PID	C:\CUI\25 servo controller\usbmmap.h	105;"	m	line:105	struct:_BD_STAT::<anonymous>
+PID0	C:\CUI\25 servo controller\usbmmap.h	96;"	m	line:96	struct:_BD_STAT::<anonymous>
+PID1	C:\CUI\25 servo controller\usbmmap.h	97;"	m	line:97	struct:_BD_STAT::<anonymous>
+PID2	C:\CUI\25 servo controller\usbmmap.h	98;"	m	line:98	struct:_BD_STAT::<anonymous>
+PID3	C:\CUI\25 servo controller\usbmmap.h	99;"	m	line:99	struct:_BD_STAT::<anonymous>
+POINTER	C:\CUI\25 servo controller\typedefs.h	148;"	t	line:148
+POWERED_STATE::2	C:\CUI\25 servo controller\usbmmap.h	59;"	d	line:59
+ProcessIO	C:\CUI\25 servo controller\user_generic_hid.c	129;"	f	line:129	signature:(void)
+ProcessIO	C:\CUI\25 servo controller\user_generic_hid.h	44;"	p	line:44	signature:(void)
+RPT_PROTOCOL::0x01	C:\CUI\25 servo controller\hid.h	59;"	d	line:59
+RemoteWakeup	C:\CUI\25 servo controller\usbmmap.h	75;"	m	line:75	struct:_USB_DEVICE_STATUS::<anonymous>
+ReportLoopback	C:\CUI\25 servo controller\user_generic_hid.c	1346;"	f	line:1346	signature:(void)
+ReportLoopback	C:\CUI\25 servo controller\user_generic_hid.c	27;"	p	line:27	file:	signature:(void)
+SET_ADR::5	C:\CUI\25 servo controller\usb9.h	51;"	d	line:51
+SET_CFG::9	C:\CUI\25 servo controller\usb9.h	55;"	d	line:55
+SET_DSC::7	C:\CUI\25 servo controller\usb9.h	53;"	d	line:53
+SET_FEATURE::3	C:\CUI\25 servo controller\usb9.h	50;"	d	line:50
+SET_IDLE::0x0A	C:\CUI\25 servo controller\hid.h	49;"	d	line:49
+SET_INTF::11	C:\CUI\25 servo controller\usb9.h	57;"	d	line:57
+SET_PROTOCOL::0x0B	C:\CUI\25 servo controller\hid.h	50;"	d	line:50
+SET_REPORT::0x09	C:\CUI\25 servo controller\hid.h	48;"	d	line:48
+SYNCH_FRAME::12	C:\CUI\25 servo controller\usb9.h	58;"	d	line:58
+SetFeatureReport0	C:\CUI\25 servo controller\user_generic_hid.h	48;"	p	line:48	signature:(void)
+SetOutReportStatus	C:\CUI\25 servo controller\user_generic_hid.h	49;"	p	line:49	signature:(byte report_type, byte report_id)
+SetOutputReport0	C:\CUI\25 servo controller\user_generic_hid.h	47;"	p	line:47	signature:(void)
+SetupPkt	C:\CUI\25 servo controller\usbmmap.c	270;"	v	line:270
+Stat	C:\CUI\25 servo controller\usbmmap.h	114;"	m	line:114	struct:_BDT::<anonymous>
+TRIS_CARD_DETECT::TRISBbits.TRISB4	C:\CUI\25 servo controller\io_cfg.h	115;"	d	line:115
+TRIS_WRITE_DETECT::TRISAbits.TRISA4	C:\CUI\25 servo controller\io_cfg.h	118;"	d	line:118
+TRUE	C:\CUI\25 servo controller\typedefs.h	150;"	e	line:150	enum:_BOOL
+TYPEDEFS_H	C:\CUI\25 servo controller\typedefs.h	38;"	d	line:38
+UOWN	C:\CUI\25 servo controller\usbmmap.h	101;"	m	line:101	struct:_BD_STAT::<anonymous>
+UOWN	C:\CUI\25 servo controller\usbmmap.h	91;"	m	line:91	struct:_BD_STAT::<anonymous>
+UPPER_LSB::(a)((a).v[2])	C:\CUI\25 servo controller\typedefs.h	120;"	d	line:120
+UPPER_MSB::(a)((a).v[3])	C:\CUI\25 servo controller\typedefs.h	121;"	d	line:121
+USB9_H	C:\CUI\25 servo controller\usb9.h	37;"	d	line:37
+USBCheckBusStatus	C:\CUI\25 servo controller\usbdrv.c	76;"	f	line:76	signature:(void)
+USBCheckHIDRequest	C:\CUI\25 servo controller\hid.c	76;"	f	line:76	signature:(void)
+USBCheckHIDRequest	C:\CUI\25 servo controller\hid.h	152;"	p	line:152	signature:(void)
+USBCheckStdRequest	C:\CUI\25 servo controller\usb9.c	70;"	f	line:70	signature:(void)
+USBCheckStdRequest	C:\CUI\25 servo controller\usb9.h	92;"	p	line:92	signature:(void)
+USBCtrlEPService	C:\CUI\25 servo controller\usbctrltrf.c	81;"	f	line:81	signature:(void)
+USBCtrlEPServiceComplete	C:\CUI\25 servo controller\usbctrltrf.c	421;"	f	line:421	signature:(void)
+USBCtrlTrfInHandler	C:\CUI\25 servo controller\usbctrltrf.c	245;"	f	line:245	signature:(void)
+USBCtrlTrfInHandler	C:\CUI\25 servo controller\usbctrltrf.c	56;"	p	line:56	file:	signature:(void)
+USBCtrlTrfOutHandler	C:\CUI\25 servo controller\usbctrltrf.c	183;"	f	line:183	signature:(void)
+USBCtrlTrfOutHandler	C:\CUI\25 servo controller\usbctrltrf.c	55;"	p	line:55	file:	signature:(void)
+USBCtrlTrfRxService	C:\CUI\25 servo controller\usbctrltrf.c	365;"	f	line:365	signature:(void)
+USBCtrlTrfSetupHandler	C:\CUI\25 servo controller\usbctrltrf.c	136;"	f	line:136	signature:(void)
+USBCtrlTrfSetupHandler	C:\CUI\25 servo controller\usbctrltrf.c	54;"	p	line:54	file:	signature:(void)
+USBCtrlTrfTxService	C:\CUI\25 servo controller\usbctrltrf.c	292;"	f	line:292	signature:(void)
+USBDRV_H	C:\CUI\25 servo controller\usbdrv.h	38;"	d	line:38
+USBDSC_H	C:\CUI\25 servo controller\usbdsc.h	40;"	d	line:40
+USBDriverService	C:\CUI\25 servo controller\usbdrv.c	216;"	f	line:216	signature:(void)
+USBErrorHandler	C:\CUI\25 servo controller\usbdrv.c	537;"	f	line:537	signature:(void)
+USBErrorHandler	C:\CUI\25 servo controller\usbdrv.c	56;"	p	line:56	file:	signature:(void)
+USBMMAP_H	C:\CUI\25 servo controller\usbmmap.h	38;"	d	line:38
+USBModuleDisable	C:\CUI\25 servo controller\usbdrv.c	162;"	f	line:162	signature:(void)
+USBModuleDisable	C:\CUI\25 servo controller\usbdrv.c	48;"	p	line:48	file:	signature:(void)
+USBModuleEnable	C:\CUI\25 servo controller\usbdrv.c	136;"	f	line:136	signature:(void)
+USBModuleEnable	C:\CUI\25 servo controller\usbdrv.c	47;"	p	line:47	file:	signature:(void)
+USBPrepareForNextSetupTrf	C:\CUI\25 servo controller\usbctrltrf.c	530;"	f	line:530	signature:(void)
+USBProtocolResetHandler	C:\CUI\25 servo controller\usbdrv.c	53;"	p	line:53	file:	signature:(void)
+USBProtocolResetHandler	C:\CUI\25 servo controller\usbdrv.c	564;"	f	line:564	signature:(void)
+USBRemoteWakeup	C:\CUI\25 servo controller\usbdrv.c	417;"	f	line:417	signature:(void)
+USBSoftDetach	C:\CUI\25 servo controller\usbdrv.c	193;"	f	line:193	signature:(void)
+USBStallHandler	C:\CUI\25 servo controller\usbdrv.c	501;"	f	line:501	signature:(void)
+USBStallHandler	C:\CUI\25 servo controller\usbdrv.c	55;"	p	line:55	file:	signature:(void)
+USBStdFeatureReqHandler	C:\CUI\25 servo controller\usb9.c	275;"	f	line:275	signature:(void)
+USBStdFeatureReqHandler	C:\CUI\25 servo controller\usb9.c	50;"	p	line:50	file:	signature:(void)
+USBStdGetDscHandler	C:\CUI\25 servo controller\usb9.c	136;"	f	line:136	signature:(void)
+USBStdGetDscHandler	C:\CUI\25 servo controller\usb9.c	47;"	p	line:47	file:	signature:(void)
+USBStdGetStatusHandler	C:\CUI\25 servo controller\usb9.c	218;"	f	line:218	signature:(void)
+USBStdGetStatusHandler	C:\CUI\25 servo controller\usb9.c	49;"	p	line:49	file:	signature:(void)
+USBStdSetCfgHandler	C:\CUI\25 servo controller\usb9.c	180;"	f	line:180	signature:(void)
+USBStdSetCfgHandler	C:\CUI\25 servo controller\usb9.c	48;"	p	line:48	file:	signature:(void)
+USBSuspend	C:\CUI\25 servo controller\usbdrv.c	302;"	f	line:302	signature:(void)
+USBSuspend	C:\CUI\25 servo controller\usbdrv.c	50;"	p	line:50	file:	signature:(void)
+USBTasks	C:\CUI\25 servo controller\main.c	147;"	f	line:147	signature:(void)
+USBTasks	C:\CUI\25 servo controller\main.c	55;"	p	line:55	file:	signature:(void)
+USBWakeFromSuspend	C:\CUI\25 servo controller\usbdrv.c	368;"	f	line:368	signature:(void)
+USBWakeFromSuspend	C:\CUI\25 servo controller\usbdrv.c	51;"	p	line:51	file:	signature:(void)
+USB_BUS_ATTACHED::1	C:\CUI\25 servo controller\usbdrv.c	82;"	d	line:82	file:
+USB_BUS_DETACHED::0	C:\CUI\25 servo controller\usbdrv.c	83;"	d	line:83	file:
+USB_CD_Ptr	C:\CUI\25 servo controller\usbdsc.c	309;"	v	line:309
+USB_DEVICE_STATUS	C:\CUI\25 servo controller\usbmmap.h	78;"	t	line:78
+USB_HID_DSC	C:\CUI\25 servo controller\hid.h	145;"	t	line:145
+USB_HID_DSC_HEADER	C:\CUI\25 servo controller\hid.h	135;"	t	line:135
+USB_SD_Ptr	C:\CUI\25 servo controller\usbdsc.c	310;"	v	line:310
+USB_SOF_Handler	C:\CUI\25 servo controller\usbdrv.c	458;"	f	line:458	signature:(void)
+USB_SOF_Handler	C:\CUI\25 servo controller\usbdrv.c	54;"	p	line:54	file:	signature:(void)
+USER_H	C:\CUI\25 servo controller\user_generic_hid.h	40;"	d	line:40
+UserInit	C:\CUI\25 servo controller\user_generic_hid.c	33;"	f	line:33	signature:(void)
+UserInit	C:\CUI\25 servo controller\user_generic_hid.h	43;"	p	line:43	signature:(void)
+WORD	C:\CUI\25 servo controller\typedefs.h	82;"	t	line:82
+WRITE_DETECT::PORTAbits.RA4	C:\CUI\25 servo controller\io_cfg.h	119;"	d	line:119
+Word0	C:\CUI\25 servo controller\typedefs.h	110;"	m	line:110	struct:_DWORD::<anonymous>
+Word1	C:\CUI\25 servo controller\typedefs.h	111;"	m	line:111	struct:_DWORD::<anonymous>
+_BDT	C:\CUI\25 servo controller\usbmmap.h	110;"	u	line:110
+_BD_STAT	C:\CUI\25 servo controller\usbmmap.h	80;"	u	line:80
+_BOOL	C:\CUI\25 servo controller\typedefs.h	150;"	g	line:150
+_BSTALL::0x04	C:\CUI\25 servo controller\usbmmap.h	46;"	d	line:46
+_BYTE	C:\CUI\25 servo controller\typedefs.h	44;"	u	line:44
+_DAT0::0x00	C:\CUI\25 servo controller\usbmmap.h	50;"	d	line:50
+_DAT1::0x40	C:\CUI\25 servo controller\usbmmap.h	51;"	d	line:51
+_DTSEN::0x08	C:\CUI\25 servo controller\usbmmap.h	47;"	d	line:47
+_DTSMASK::0x40	C:\CUI\25 servo controller\usbmmap.h	52;"	d	line:52
+_DWORD	C:\CUI\25 servo controller\typedefs.h	86;"	u	line:86
+_FS::0x04	C:\CUI\25 servo controller\usbdrv.h	51;"	d	line:51
+_INCDIS::0x10	C:\CUI\25 servo controller\usbmmap.h	48;"	d	line:48
+_KEN::0x20	C:\CUI\25 servo controller\usbmmap.h	49;"	d	line:49
+_LS::0x00	C:\CUI\25 servo controller\usbdrv.h	50;"	d	line:50
+_OEMON::0x40	C:\CUI\25 servo controller\usbdrv.h	55;"	d	line:55
+_POINTER	C:\CUI\25 servo controller\typedefs.h	125;"	u	line:125
+_PPBM0::0x00	C:\CUI\25 servo controller\usbdrv.h	47;"	d	line:47
+_PPBM1::0x01	C:\CUI\25 servo controller\usbdrv.h	48;"	d	line:48
+_PPBM2::0x02	C:\CUI\25 servo controller\usbdrv.h	49;"	d	line:49
+_PUEN::0x10	C:\CUI\25 servo controller\usbdrv.h	54;"	d	line:54
+_RAM::0	C:\CUI\25 servo controller\usbmmap.h	66;"	d	line:66
+_ROM::1	C:\CUI\25 servo controller\usbmmap.h	67;"	d	line:67
+_TREXT::0x08	C:\CUI\25 servo controller\usbdrv.h	53;"	d	line:53
+_TRINT::0x00	C:\CUI\25 servo controller\usbdrv.h	52;"	d	line:52
+_UCPU::0x00	C:\CUI\25 servo controller\usbmmap.h	54;"	d	line:54
+_USB_DEVICE_STATUS	C:\CUI\25 servo controller\usbmmap.h	70;"	u	line:70
+_USB_HID_DSC	C:\CUI\25 servo controller\hid.h	137;"	s	line:137
+_USB_HID_DSC_HEADER	C:\CUI\25 servo controller\hid.h	131;"	s	line:131
+_USIE::0x80	C:\CUI\25 servo controller\usbmmap.h	53;"	d	line:53
+_UTEYE::0x80	C:\CUI\25 servo controller\usbdrv.h	56;"	d	line:56
+_WORD	C:\CUI\25 servo controller\typedefs.h	60;"	u	line:60
+__DELAYS_H	C:\MCC18\h\delays.h	2;"	d	line:2
+_byte	C:\CUI\25 servo controller\typedefs.h	46;"	m	line:46	union:_BYTE
+_byte	C:\CUI\25 servo controller\usbmmap.h	72;"	m	line:72	union:_USB_DEVICE_STATUS
+_byte	C:\CUI\25 servo controller\usbmmap.h	82;"	m	line:82	union:_BD_STAT
+_dword	C:\CUI\25 servo controller\typedefs.h	88;"	m	line:88	union:_DWORD
+_reset	C:\CUI\25 servo controller\main.c	61;"	f	line:61	signature:(void)
+_startup	C:\CUI\25 servo controller\main.c	59;"	p	line:59	file:	signature:(void)
+_word	C:\CUI\25 servo controller\typedefs.h	133;"	m	line:133	union:_POINTER
+_word	C:\CUI\25 servo controller\typedefs.h	62;"	m	line:62	union:_WORD
+a	C:\CUI\25 servo controller\user_generic_hid.c	132;"	l	line:132
+active_protocol	C:\CUI\25 servo controller\hid.c	49;"	v	line:49
+arr	C:\CUI\25 servo controller\user_generic_hid.c	130;"	l	line:130
+b0	C:\CUI\25 servo controller\typedefs.h	49;"	m	line:49	struct:_BYTE::<anonymous>
+b1	C:\CUI\25 servo controller\typedefs.h	50;"	m	line:50	struct:_BYTE::<anonymous>
+b2	C:\CUI\25 servo controller\typedefs.h	51;"	m	line:51	struct:_BYTE::<anonymous>
+b3	C:\CUI\25 servo controller\typedefs.h	52;"	m	line:52	struct:_BYTE::<anonymous>
+b4	C:\CUI\25 servo controller\typedefs.h	53;"	m	line:53	struct:_BYTE::<anonymous>
+b5	C:\CUI\25 servo controller\typedefs.h	54;"	m	line:54	struct:_BYTE::<anonymous>
+b6	C:\CUI\25 servo controller\typedefs.h	55;"	m	line:55	struct:_BYTE::<anonymous>
+b7	C:\CUI\25 servo controller\typedefs.h	56;"	m	line:56	struct:_BYTE::<anonymous>
+bCountryCode	C:\CUI\25 servo controller\hid.h	140;"	m	line:140	struct:_USB_HID_DSC
+bDscType	C:\CUI\25 servo controller\hid.h	133;"	m	line:133	struct:_USB_HID_DSC_HEADER
+bDscType	C:\CUI\25 servo controller\hid.h	139;"	m	line:139	struct:_USB_HID_DSC
+bDscType	C:\CUI\25 servo controller\usbdsc.c	254;"	m	line:254	file:
+bDscType	C:\CUI\25 servo controller\usbdsc.c	257;"	m	line:257	file:
+bDscType	C:\CUI\25 servo controller\usbdsc.c	261;"	m	line:261	file:
+bHigh	C:\CUI\25 servo controller\typedefs.h	130;"	m	line:130	struct:_POINTER::<anonymous>
+bLength	C:\CUI\25 servo controller\hid.h	139;"	m	line:139	struct:_USB_HID_DSC
+bLength	C:\CUI\25 servo controller\usbdsc.c	254;"	m	line:254	file:
+bLength	C:\CUI\25 servo controller\usbdsc.c	257;"	m	line:257	file:
+bLength	C:\CUI\25 servo controller\usbdsc.c	261;"	m	line:261	file:
+bLow	C:\CUI\25 servo controller\typedefs.h	129;"	m	line:129	struct:_POINTER::<anonymous>
+bNumDsc	C:\CUI\25 servo controller\hid.h	140;"	m	line:140	struct:_USB_HID_DSC
+bRam	C:\CUI\25 servo controller\typedefs.h	137;"	m	line:137	union:_POINTER
+bRom	C:\CUI\25 servo controller\typedefs.h	142;"	m	line:142	union:_POINTER
+bcdHID	C:\CUI\25 servo controller\hid.h	139;"	m	line:139	struct:_USB_HID_DSC
+byte	C:\CUI\25 servo controller\typedefs.h	40;"	t	line:40
+byte0	C:\CUI\25 servo controller\typedefs.h	65;"	m	line:65	struct:_WORD::<anonymous>
+byte0	C:\CUI\25 servo controller\typedefs.h	91;"	m	line:91	struct:_DWORD::<anonymous>
+byte1	C:\CUI\25 servo controller\typedefs.h	66;"	m	line:66	struct:_WORD::<anonymous>
+byte1	C:\CUI\25 servo controller\typedefs.h	92;"	m	line:92	struct:_DWORD::<anonymous>
+byte2	C:\CUI\25 servo controller\typedefs.h	93;"	m	line:93	struct:_DWORD::<anonymous>
+byte3	C:\CUI\25 servo controller\typedefs.h	94;"	m	line:94	struct:_DWORD::<anonymous>
+byte_to_read	C:\CUI\25 servo controller\usbctrltrf.c	370;"	l	line:370
+byte_to_send	C:\CUI\25 servo controller\usbctrltrf.c	297;"	l	line:297
+cd01	C:\CUI\25 servo controller\usbdsc.h	54;"	v	line:54
+count	C:\CUI\25 servo controller\hid.c	192;"	l	line:192
+count	C:\CUI\25 servo controller\user_generic_hid.c	1347;"	l	line:1347
+count	C:\CUI\25 servo controller\user_generic_hid.c	1398;"	l	line:1398
+count	C:\CUI\25 servo controller\user_generic_hid.c	1514;"	l	line:1514
+count	C:\CUI\25 servo controller\user_generic_hid.c	1530;"	l	line:1530
+count	C:\CUI\25 servo controller\user_generic_hid.c	17;"	v	line:17
+cs_sdmmc::LATBbits.LATB3	C:\CUI\25 servo controller\io_cfg.h	112;"	d	line:112
+cs_temp_sensor::LATBbits.LATB2	C:\CUI\25 servo controller\io_cfg.h	109;"	d	line:109
+ctrl_trf_mem	C:\CUI\25 servo controller\usbmmap.h	76;"	m	line:76	struct:_USB_DEVICE_STATUS::<anonymous>
+ctrl_trf_session_owner	C:\CUI\25 servo controller\usbctrltrf.c	47;"	v	line:47
+ctrl_trf_state	C:\CUI\25 servo controller\usbctrltrf.c	46;"	v	line:46
+delay_count	C:\CUI\25 servo controller\usbdrv.c	419;"	l	line:419	file:
+device_dsc	C:\CUI\25 servo controller\usbdsc.c	183;"	v	line:183
+dif1	C:\CUI\25 servo controller\user_generic_hid.c	22;"	v	line:22
+dif10	C:\CUI\25 servo controller\user_generic_hid.c	23;"	v	line:23
+dif11	C:\CUI\25 servo controller\user_generic_hid.c	23;"	v	line:23
+dif12	C:\CUI\25 servo controller\user_generic_hid.c	23;"	v	line:23
+dif13	C:\CUI\25 servo controller\user_generic_hid.c	23;"	v	line:23
+dif2	C:\CUI\25 servo controller\user_generic_hid.c	22;"	v	line:22
+dif3	C:\CUI\25 servo controller\user_generic_hid.c	22;"	v	line:22
+dif4	C:\CUI\25 servo controller\user_generic_hid.c	22;"	v	line:22
+dif5	C:\CUI\25 servo controller\user_generic_hid.c	22;"	v	line:22
+dif6	C:\CUI\25 servo controller\user_generic_hid.c	22;"	v	line:22
+dif7	C:\CUI\25 servo controller\user_generic_hid.c	22;"	v	line:22
+dif8	C:\CUI\25 servo controller\user_generic_hid.c	22;"	v	line:22
+dif9	C:\CUI\25 servo controller\user_generic_hid.c	23;"	v	line:23
+dword	C:\CUI\25 servo controller\typedefs.h	42;"	t	line:42
+ep01i_i00a00	C:\CUI\25 servo controller\usbdsc.h	57;"	v	line:57
+ep01o_i00a00	C:\CUI\25 servo controller\usbdsc.h	58;"	v	line:58
+ep0Bi	C:\CUI\25 servo controller\usbmmap.c	177;"	v	line:177
+ep0Bo	C:\CUI\25 servo controller\usbmmap.c	176;"	v	line:176
+ep10Bi	C:\CUI\25 servo controller\usbmmap.c	227;"	v	line:227
+ep10Bo	C:\CUI\25 servo controller\usbmmap.c	226;"	v	line:226
+ep11Bi	C:\CUI\25 servo controller\usbmmap.c	232;"	v	line:232
+ep11Bo	C:\CUI\25 servo controller\usbmmap.c	231;"	v	line:231
+ep12Bi	C:\CUI\25 servo controller\usbmmap.c	237;"	v	line:237
+ep12Bo	C:\CUI\25 servo controller\usbmmap.c	236;"	v	line:236
+ep13Bi	C:\CUI\25 servo controller\usbmmap.c	242;"	v	line:242
+ep13Bo	C:\CUI\25 servo controller\usbmmap.c	241;"	v	line:241
+ep14Bi	C:\CUI\25 servo controller\usbmmap.c	247;"	v	line:247
+ep14Bo	C:\CUI\25 servo controller\usbmmap.c	246;"	v	line:246
+ep15Bi	C:\CUI\25 servo controller\usbmmap.c	252;"	v	line:252
+ep15Bo	C:\CUI\25 servo controller\usbmmap.c	251;"	v	line:251
+ep1Bi	C:\CUI\25 servo controller\usbmmap.c	182;"	v	line:182
+ep1Bo	C:\CUI\25 servo controller\usbmmap.c	181;"	v	line:181
+ep2Bi	C:\CUI\25 servo controller\usbmmap.c	187;"	v	line:187
+ep2Bo	C:\CUI\25 servo controller\usbmmap.c	186;"	v	line:186
+ep3Bi	C:\CUI\25 servo controller\usbmmap.c	192;"	v	line:192
+ep3Bo	C:\CUI\25 servo controller\usbmmap.c	191;"	v	line:191
+ep4Bi	C:\CUI\25 servo controller\usbmmap.c	197;"	v	line:197
+ep4Bo	C:\CUI\25 servo controller\usbmmap.c	196;"	v	line:196
+ep5Bi	C:\CUI\25 servo controller\usbmmap.c	202;"	v	line:202
+ep5Bo	C:\CUI\25 servo controller\usbmmap.c	201;"	v	line:201
+ep6Bi	C:\CUI\25 servo controller\usbmmap.c	207;"	v	line:207
+ep6Bo	C:\CUI\25 servo controller\usbmmap.c	206;"	v	line:206
+ep7Bi	C:\CUI\25 servo controller\usbmmap.c	212;"	v	line:212
+ep7Bo	C:\CUI\25 servo controller\usbmmap.c	211;"	v	line:211
+ep8Bi	C:\CUI\25 servo controller\usbmmap.c	217;"	v	line:217
+ep8Bo	C:\CUI\25 servo controller\usbmmap.c	216;"	v	line:216
+ep9Bi	C:\CUI\25 servo controller\usbmmap.c	222;"	v	line:222
+ep9Bo	C:\CUI\25 servo controller\usbmmap.c	221;"	v	line:221
+hid_dsc_header	C:\CUI\25 servo controller\hid.h	141;"	m	line:141	struct:_USB_HID_DSC
+hid_i00a00	C:\CUI\25 servo controller\usbdsc.h	56;"	v	line:56
+hid_report_feature	C:\CUI\25 servo controller\usbmmap.c	281;"	v	line:281
+hid_report_in	C:\CUI\25 servo controller\usbmmap.c	280;"	v	line:280
+hid_report_out	C:\CUI\25 servo controller\usbmmap.c	279;"	v	line:279
+hid_rpt01	C:\CUI\25 servo controller\usbdsc.c	272;"	v	line:272
+hid_rpt_rx_len	C:\CUI\25 servo controller\hid.c	50;"	v	line:50
+i	C:\CUI\25 servo controller\hid.c	428;"	l	line:428
+i	C:\CUI\25 servo controller\usbctrltrf.c	138;"	l	line:138
+i	C:\CUI\25 servo controller\user_generic_hid.c	132;"	l	line:132
+i	C:\CUI\25 servo controller\user_generic_hid.c	1545;"	l	line:1545
+i00a00	C:\CUI\25 servo controller\usbdsc.h	55;"	v	line:55
+idle_rate	C:\CUI\25 servo controller\hid.c	48;"	v	line:48
+led_count	C:\CUI\25 servo controller\user_generic_hid.c	1455;"	l	line:1455	file:
+mHIDGetRptRxLength::hid_rpt_rx_len	C:\CUI\25 servo controller\hid.h	128;"	d	line:128
+mHIDRxIsBusy::HID_BD_OUT.Stat.UOWN	C:\CUI\25 servo controller\hid.h	90;"	d	line:90
+mHIDTxIsBusy::HID_BD_IN.Stat.UOWN	C:\CUI\25 servo controller\hid.h	109;"	d	line:109
+mInitAllLEDs::LATD&=0xF0;TRISD&=0xF0;	C:\CUI\25 servo controller\io_cfg.h	75;"	d	line:75
+mInitAllSwitches::TRISBbits.TRISB4=1;TRISBbits.T	C:\CUI\25 servo controller\io_cfg.h	98;"	d	line:98
+mInitPOT::TRISAbits.TRISA0=1;ADCON0=0x01	C:\CUI\25 servo controller\io_cfg.h	105;"	d	line:105
+mInitSwitch2::TRISBbits.TRISB4=1;	C:\CUI\25 servo controller\io_cfg.h	99;"	d	line:99
+mInitSwitch3::TRISBbits.TRISB5=1;	C:\CUI\25 servo controller\io_cfg.h	100;"	d	line:100
+mInitializeUSBDriver::{UCFG=UCFG_VAL;\	C:\CUI\25 servo controller\usbdrv.h	135;"	d	line:135
+mLED_1::LATDbits.LATD0	C:\CUI\25 servo controller\io_cfg.h	77;"	d	line:77
+mLED_1_Off::mLED_1=0;	C:\CUI\25 servo controller\io_cfg.h	87;"	d	line:87
+mLED_1_On::mLED_1=1;	C:\CUI\25 servo controller\io_cfg.h	82;"	d	line:82
+mLED_1_Toggle::mLED_1=!mLED_1;	C:\CUI\25 servo controller\io_cfg.h	92;"	d	line:92
+mLED_2::LATDbits.LATD1	C:\CUI\25 servo controller\io_cfg.h	78;"	d	line:78
+mLED_2_Off::mLED_2=0;	C:\CUI\25 servo controller\io_cfg.h	88;"	d	line:88
+mLED_2_On::mLED_2=1;	C:\CUI\25 servo controller\io_cfg.h	83;"	d	line:83
+mLED_2_Toggle::mLED_2=!mLED_2;	C:\CUI\25 servo controller\io_cfg.h	93;"	d	line:93
+mLED_3::LATDbits.LATD2	C:\CUI\25 servo controller\io_cfg.h	79;"	d	line:79
+mLED_3_Off::mLED_3=0;	C:\CUI\25 servo controller\io_cfg.h	89;"	d	line:89
+mLED_3_On::mLED_3=1;	C:\CUI\25 servo controller\io_cfg.h	84;"	d	line:84
+mLED_3_Toggle::mLED_3=!mLED_3;	C:\CUI\25 servo controller\io_cfg.h	94;"	d	line:94
+mLED_4::LATDbits.LATD3	C:\CUI\25 servo controller\io_cfg.h	80;"	d	line:80
+mLED_4_Off::mLED_4=0;	C:\CUI\25 servo controller\io_cfg.h	90;"	d	line:90
+mLED_4_On::mLED_4=1;	C:\CUI\25 servo controller\io_cfg.h	85;"	d	line:85
+mLED_4_Toggle::mLED_4=!mLED_4;	C:\CUI\25 servo controller\io_cfg.h	95;"	d	line:95
+mLED_Both_Off::{mLED_1_Off;mLED_2_Off;}	C:\CUI\25 servo controller\user_generic_hid.c	1460;"	d	line:1460	file:
+mLED_Both_On::{mLED_1_On;mLED_2_On;}	C:\CUI\25 servo controller\user_generic_hid.c	1461;"	d	line:1461	file:
+mLED_Only_1_On::{mLED_1_On;mLED_2_Off;}	C:\CUI\25 servo controller\user_generic_hid.c	1462;"	d	line:1462	file:
+mLED_Only_2_On::{mLED_1_Off;mLED_2_On;}	C:\CUI\25 servo controller\user_generic_hid.c	1463;"	d	line:1463	file:
+mUSBCheckAdrPendingState::if(usb_device_state==ADR_PENDI	C:\CUI\25 servo controller\usb9.h	80;"	d	line:80
+main	C:\CUI\25 servo controller\main.c	84;"	f	line:84	signature:(void)
+number_of_bytes_read	C:\CUI\25 servo controller\user_generic_hid.c	13;"	v	line:13
+pDst	C:\CUI\25 servo controller\usbctrltrf.c	50;"	v	line:50
+pFunc	C:\CUI\25 servo controller\typedefs.h	123;"	t	line:123
+pSrc	C:\CUI\25 servo controller\usbctrltrf.c	49;"	v	line:49
+pulse1	C:\CUI\25 servo controller\user_generic_hid.c	18;"	v	line:18
+pulse10	C:\CUI\25 servo controller\user_generic_hid.c	19;"	v	line:19
+pulse11	C:\CUI\25 servo controller\user_generic_hid.c	19;"	v	line:19
+pulse12	C:\CUI\25 servo controller\user_generic_hid.c	19;"	v	line:19
+pulse13	C:\CUI\25 servo controller\user_generic_hid.c	19;"	v	line:19
+pulse14	C:\CUI\25 servo controller\user_generic_hid.c	19;"	v	line:19
+pulse15	C:\CUI\25 servo controller\user_generic_hid.c	19;"	v	line:19
+pulse16	C:\CUI\25 servo controller\user_generic_hid.c	19;"	v	line:19
+pulse17	C:\CUI\25 servo controller\user_generic_hid.c	20;"	v	line:20
+pulse18	C:\CUI\25 servo controller\user_generic_hid.c	20;"	v	line:20
+pulse19	C:\CUI\25 servo controller\user_generic_hid.c	20;"	v	line:20
+pulse2	C:\CUI\25 servo controller\user_generic_hid.c	18;"	v	line:18
+pulse20	C:\CUI\25 servo controller\user_generic_hid.c	20;"	v	line:20
+pulse21	C:\CUI\25 servo controller\user_generic_hid.c	20;"	v	line:20
+pulse22	C:\CUI\25 servo controller\user_generic_hid.c	20;"	v	line:20
+pulse23	C:\CUI\25 servo controller\user_generic_hid.c	20;"	v	line:20
+pulse24	C:\CUI\25 servo controller\user_generic_hid.c	20;"	v	line:20
+pulse25	C:\CUI\25 servo controller\user_generic_hid.c	20;"	v	line:20
+pulse3	C:\CUI\25 servo controller\user_generic_hid.c	18;"	v	line:18
+pulse4	C:\CUI\25 servo controller\user_generic_hid.c	18;"	v	line:18
+pulse5	C:\CUI\25 servo controller\user_generic_hid.c	18;"	v	line:18
+pulse6	C:\CUI\25 servo controller\user_generic_hid.c	18;"	v	line:18
+pulse7	C:\CUI\25 servo controller\user_generic_hid.c	18;"	v	line:18
+pulse8	C:\CUI\25 servo controller\user_generic_hid.c	18;"	v	line:18
+pulse9	C:\CUI\25 servo controller\user_generic_hid.c	19;"	v	line:19
+receive_buffer	C:\CUI\25 servo controller\user_generic_hid.c	15;"	v	line:15
+removeIndex	C:\CUI\25 servo controller\user_generic_hid.c	1053;"	l	line:1053
+removeIndex	C:\CUI\25 servo controller\user_generic_hid.c	1197;"	l	line:1197
+removeIndex	C:\CUI\25 servo controller\user_generic_hid.c	194;"	l	line:194
+removeIndex	C:\CUI\25 servo controller\user_generic_hid.c	337;"	l	line:337
+removeIndex	C:\CUI\25 servo controller\user_generic_hid.c	481;"	l	line:481
+removeIndex	C:\CUI\25 servo controller\user_generic_hid.c	624;"	l	line:624
+removeIndex	C:\CUI\25 servo controller\user_generic_hid.c	767;"	l	line:767
+removeIndex	C:\CUI\25 servo controller\user_generic_hid.c	910;"	l	line:910
+report	C:\CUI\25 servo controller\usbdsc.c	272;"	m	line:272	file:
+report	C:\CUI\25 servo controller\usbdsc.h	67;"	m	line:67
+sd000	C:\CUI\25 servo controller\usbdsc.c	254;"	v	line:254
+sd001	C:\CUI\25 servo controller\usbdsc.c	257;"	v	line:257
+sd002	C:\CUI\25 servo controller\usbdsc.c	261;"	v	line:261
+self_power::1	C:\CUI\25 servo controller\io_cfg.h	61;"	d	line:61
+self_power::PORTAbits.RA2	C:\CUI\25 servo controller\io_cfg.h	59;"	d	line:59
+sorted	C:\CUI\25 servo controller\user_generic_hid.c	131;"	l	line:131
+step	C:\CUI\25 servo controller\user_generic_hid.c	1544;"	f	line:1544	signature:(int input)
+step	C:\CUI\25 servo controller\user_generic_hid.c	29;"	p	line:29	file:	signature:(int)
+string	C:\CUI\25 servo controller\usbdsc.c	254;"	m	line:254	file:
+string	C:\CUI\25 servo controller\usbdsc.c	257;"	m	line:257	file:
+string	C:\CUI\25 servo controller\usbdsc.c	261;"	m	line:261	file:
+sw2::PORTBbits.RB4	C:\CUI\25 servo controller\io_cfg.h	101;"	d	line:101
+sw3::PORTBbits.RB5	C:\CUI\25 servo controller\io_cfg.h	102;"	d	line:102
+transmit_buffer	C:\CUI\25 servo controller\user_generic_hid.c	14;"	v	line:14
+tris_cs_sdmmc::TRISBbits.TRISB3	C:\CUI\25 servo controller\io_cfg.h	111;"	d	line:111
+tris_cs_temp_sensor::TRISBbits.TRISB2	C:\CUI\25 servo controller\io_cfg.h	108;"	d	line:108
+tris_self_power::TRISAbits.TRISA2	C:\CUI\25 servo controller\io_cfg.h	56;"	d	line:56
+tris_usb_bus_sense::TRISAbits.TRISA1	C:\CUI\25 servo controller\io_cfg.h	48;"	d	line:48
+tris_usb_oe::TRISCbits.TRISC1	C:\CUI\25 servo controller\io_cfg.h	70;"	d	line:70
+tris_usb_rcv::TRISAbits.TRISA4	C:\CUI\25 servo controller\io_cfg.h	67;"	d	line:67
+tris_usb_suspnd::TRISAbits.TRISA3	C:\CUI\25 servo controller\io_cfg.h	72;"	d	line:72
+tris_usb_vm::TRISCbits.TRISC4	C:\CUI\25 servo controller\io_cfg.h	69;"	d	line:69
+tris_usb_vmo::TRISBbits.TRISB2	C:\CUI\25 servo controller\io_cfg.h	66;"	d	line:66
+tris_usb_vp::TRISCbits.TRISC5	C:\CUI\25 servo controller\io_cfg.h	68;"	d	line:68
+tris_usb_vpo::TRISBbits.TRISB3	C:\CUI\25 servo controller\io_cfg.h	65;"	d	line:65
+usb_active_cfg	C:\CUI\25 servo controller\usbmmap.c	161;"	v	line:161
+usb_alt_intf	C:\CUI\25 servo controller\usbmmap.c	162;"	v	line:162
+usb_bus_sense::1	C:\CUI\25 servo controller\io_cfg.h	53;"	d	line:53
+usb_bus_sense::PORTAbits.RA1	C:\CUI\25 servo controller\io_cfg.h	51;"	d	line:51
+usb_device_state	C:\CUI\25 servo controller\usbmmap.c	159;"	v	line:159
+usb_stat	C:\CUI\25 servo controller\usbmmap.c	160;"	v	line:160
+v	C:\CUI\25 servo controller\typedefs.h	115;"	m	line:115	struct:_DWORD::<anonymous>
+v	C:\CUI\25 servo controller\typedefs.h	80;"	m	line:80	struct:_WORD::<anonymous>
+wCount	C:\CUI\25 servo controller\usbctrltrf.c	51;"	v	line:51
+wDscLength	C:\CUI\25 servo controller\hid.h	134;"	m	line:134	struct:_USB_HID_DSC_HEADER
+wRam	C:\CUI\25 servo controller\typedefs.h	139;"	m	line:139	union:_POINTER
+wRom	C:\CUI\25 servo controller\typedefs.h	143;"	m	line:143	union:_POINTER
+word	C:\CUI\25 servo controller\typedefs.h	41;"	t	line:41
+word0	C:\CUI\25 servo controller\typedefs.h	98;"	m	line:98	struct:_DWORD::<anonymous>
+word1	C:\CUI\25 servo controller\typedefs.h	99;"	m	line:99	struct:_DWORD::<anonymous>
