@@ -23,6 +23,6 @@ Requires Device Circuit.
 
 [25 Servo Controller Bill of Materials](https://github.com/endurancerc/PIC18F4550-25ServoController/blob/main/25_Servo_Controller_BOM.csv)
 
-[25 Servo Controller Instructions](https://github.com/endurancerc/PIC18F4550-PCTx/blob/main/25_servo_controller_v1.2_instructions.pdf)
+[25 Servo Controller Instructions](https://github.com/endurancerc/PIC18F4550-25ServoController/blob/main/25_servo_controller_v1.2_instructions.pdf)
 
 ---------------------------------------------------------------------------------------------------------------
