@@ -1,0 +1,24 @@
+25 Servo Controller Parts Listing,,,
+,,,
+Schematic Part ID,Mouser Part Number,Manufacturer Part Number,Description
+IC1,579-PIC18F4550-I/P,PIC18F4550-I/P,Microcontrollers (MCU) 32kBF 2048RM FSUSB2
+IC1,517-4840-6000-CP,4840-6000-CP,IC & Component Sockets 40P DUAL WIPE DIPSKT
+R6,291-4.7K-RC,291-4.7K-RC,Carbon Film Resistors - Through Hole 4.7Kohms 0.05
+R8,291-4.7K-RC,291-4.7K-RC,Carbon Film Resistors - Through Hole 4.7Kohms 0.05
+S1,653-B3F-1000,B3F-1000,Tactile & Jog Switches 6X6 FLAT 4.3mm BTN
+S2,653-B3F-1000,B3F-1000,Tactile & Jog Switches 6X6 FLAT 4.3mm BTN
+F1,576-30R160UPR,30R160UPR,PTC Resettable Fuses 30V RADIAL LDS 1.60A RADIAL LEADS
+Q2,815-ABL-20-B2,ABL-20.000MHZ-B2,Crystals +/-20ppm 20MHZ FUNDAMENTAL
+C1,581-SR211A150KAR,SR211A150KAR,Multilayer Ceramic Capacitors (MLCC) - Leaded 100volts 15pF 10% C0G
+C2,581-SR211A150KAR,SR211A150KAR,Multilayer Ceramic Capacitors (MLCC) - Leaded 100volts 15pF 10% C0G
+C3,80-C410C104M5U,C410C104M5U5TA,Multilayer Ceramic Capacitors (MLCC) - Leaded 50volts .1uF 20%
+C5,80-C410C104M5U,C410C104M5U5TA,Multilayer Ceramic Capacitors (MLCC) - Leaded 50volts .1uF 20%
+C6,647-UVR1J101MPD1TD,UVR1J101MPD1TD,Aluminum Electrolytic Capacitors - Leaded 63volts 100uF
+C4,140-SEA0R47M1HBK0407,SEA0R47M1HBK-0407P,Aluminum Electrolytic Capacitors - Leaded 50V 0.47uF 20% 4X7mm
+R1,660-MF1/4DC4700F,MF1/4DC4700F,Metal Film Resistors - Through Hole 470ohm 1% 100PPM
+X1,571-292304-1,292304-1,USB Connectors 4P 'B' RECEPTACLE 
+LED1,604-WP7113QBC/D,WP7113QBC/D,Standard LED - Through Hole BLUE WATER CLEAR
+JP9-JP13,517-2350-6121TG,2350-6121TG,Headers & Wire Housings 5P STRT 2 ROW GOLD 
+JP14-JP18,517-6111TG,2340-6111TG,Headers & Wire Housings 5P STRT 1 ROW GOLD
+PAD1/PAD2,538-39880-0302,39880-0302,Fixed Terminal Blocks 2 CKT TERM. BLOCK 5.08mm
+JP3,,,ICSP: 1 - MCLR 2 - GND 3 - +5V 4 - PGD 5 - PGC
