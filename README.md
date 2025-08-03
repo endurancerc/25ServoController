@@ -13,7 +13,7 @@ Build your own 25 Servo Controller! Once you have flashed the bootloader firmwar
 
 The commercial version can be found here:
 
-[http://www.endurance-rc.com/controllers.php#tfservo](http://www.endurance-rc.com/pctx.php)
+[http://www.endurance-rc.com/controllers.php#tfservo](http://www.endurance-rc.com/controllers.php#tfservo)
 
 Requires Device Circuit.
 
@@ -21,8 +21,8 @@ Requires Device Circuit.
 
 ![alt text](https://github.com/endurancerc/PIC18F4550-PCTx/blob/main/dx6i_PCTx.jpg?raw=true)
 
-[PCTx Bill of Materials](https://github.com/endurancerc/PIC18F4550-PCTx/blob/main/PCTx_BOM.csv)
+[25 Servo Controller Bill of Materials](https://github.com/endurancerc/PIC18F4550-25ServoController/blob/main/25_Servo_Controller_BOM.csv)
 
-[PCTx Instructions](https://github.com/endurancerc/PIC18F4550-PCTx/blob/main/PCTx_instructions.pdf)
+[25 Servo Controller Instructions](https://github.com/endurancerc/PIC18F4550-PCTx/blob/main/25_servo_controller_v1.2_instructions.pdf)
 
 ---------------------------------------------------------------------------------------------------------------
