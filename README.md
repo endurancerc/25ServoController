@@ -8,9 +8,9 @@
 
 ---------------------------------------------------------------------------------------------------------------
 
-Build your own 25 Servo Controller! Once you have flashed the bootloader firmware to your device you can 
-  upload device firmware using the PICDEM tool. This firmware is for the 25 Servo Controller.
-
+Build your own 25 Servo Controller! Once you have your circuit you must flash the bootloader firmware to your 
+  device. Upload device firmware using the PICDEM tool.
+  
 The commercial version can be found here:
 
 [http://www.endurance-rc.com/controllers.php#tfservo](http://www.endurance-rc.com/controllers.php#tfservo)
